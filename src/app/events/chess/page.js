@@ -8,35 +8,36 @@ const page = () => {
         <div className={styles.title}>Chess Tournaments</div>
         <div className={styles.subhead}>About</div>
         <div className={styles.desc}>
-          Bytevault Holdings is a division of Cyberdyne Systems that provides
-          bank loans as well as bulk resources trading services. We provide
-          alliance loans, nation loans, etc at low rate of interest.
+          Orbis Events Chess Tournaments offer a fantastic opportunity to
+          demonstrate your chess prowess while enjoying the game. Whether you're
+          a novice or a chess grandmaster, you're welcome to join our
+          tournaments and challenge yourself!
         </div>
         <div className={styles.desc}>
-          We have high standards and criterias for giving out loans and we loan
-          out money only if you satisfy those. We provide the best and most
-          professional banking service in Orbis. Bytevault Holdings a member of
-          OSEC that helps us in loan recovery in case of a defaults.
+          We at <b>Orbis Events</b> want to ensure fair play and unbiased events
+          so we require all our participants to abide by the rules laid down by
+          us.
         </div>
         <div className={styles.subhead}>Rules</div>
         <div className={styles.desc}>
-          If you wish to read the rules, terms and condition of our bank,{" "}
+          To read all rules, click on the button below. All chess matches must
+          be played on ,{" "}
           <a
             className={styles.links}
             target="_blank"
-            href="https://docs.google.com/document/d/1vxYdk1y0hvM8nA-pDJs-aT4iCkTSMcx0PkDv7D9ZLjs/edit"
+            href="https://www.chess.com/"
           >
-            <b>click here</b>
+            <b>chess.com</b>
           </a>{" "}
-          to read our Charter.
+          only.
         </div>
         <div className={styles.bottom}>
           <a
-            href="https://discord.gg/anYFxMM2wT"
+            href="https://docs.google.com/document/d/1twzJ7KaIE27BskSTMaElwfkt4is_bjb5p_nV5t10Kfo/edit?usp=sharing"
             target="_blank"
             className={styles.butt}
           >
-            <button>Visit Now</button>
+            <button>Read Rules</button>
           </a>
         </div>
       </div>
