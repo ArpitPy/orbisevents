@@ -19,7 +19,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className={styles.nav_button}>
-            <a href="https://discord.gg/jcdZBJyqDW" target="_blank"><button>Join Server</button></a>
+            <a href="https://discord.gg/rmbkq6VFhP" target="_blank"><button>Join Server</button></a>
             </div>
         </div>
     </div>

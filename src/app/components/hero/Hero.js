@@ -10,7 +10,7 @@ const Hero = () => {
           competitions, giveaways, etc!
         </div>
         <div className={styles.hero_button}>
-          <a href="https://discord.gg/jcdZBJyqDW" target="_blank">
+          <a href="https://discord.gg/rmbkq6VFhP" target="_blank">
             <button>Join Server</button>
           </a>
         </div>
