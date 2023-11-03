@@ -1,0 +1,111 @@
+.archive_section {
+  background-color: rgb(80, 79, 79);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 100px;
+}
+.title {
+  color: white;
+  font-size: 30px;
+  text-decoration: underline white;
+  padding-bottom: 30px;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+}
+.card_chess {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 100px;
+  width: 400px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../../../public/one.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-size: 25px;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+.card_giveaway {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 100px;
+  width: 400px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../../../public/four.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-size: 25px;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+.card_lottery {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 100px;
+  width: 400px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../../../public/two.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-size: 25px;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+.card_betting {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 100px;
+  width: 400px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../../../public/six.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-size: 25px;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+.card_hunger {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 100px;
+  width: 400px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../../../public/five.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-size: 25px;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
