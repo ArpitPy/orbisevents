@@ -141,6 +141,15 @@
   .cardthree{
     margin-bottom: 20px;
   }
+  .cardfour{
+    margin-bottom: 20px;
+  }
+  .cardfive{
+    margin-bottom: 20px;
+  }
+  .cardsix{
+    margin-bottom: 20px;
+  }
 }
 @media screen and (max-width: 420px) {
   .cardone{
@@ -158,6 +167,21 @@
     font-size: 20px;
     text-align: center;
   }
+  .cardfour{
+    width: 300px;
+    font-size: 20px;
+    text-align: center;
+  }
+  .cardfive{
+    width: 300px;
+    font-size: 20px;
+    text-align: center;
+  }
+  .cardsix{
+    width: 300px;
+    font-size: 20px;
+    text-align: center;
+  }
 }
 @media screen and (max-width: 310px) {
   .cardone{
@@ -169,6 +193,18 @@
     font-size: 20px;
   }
   .cardthree{
+    width: 250px;
+    font-size: 20px;
+  }
+  .cardfour{
+    width: 250px;
+    font-size: 20px;
+  }
+  .cardfive{
+    width: 250px;
+    font-size: 20px;
+  }
+  .cardsix{
     width: 250px;
     font-size: 20px;
   }
