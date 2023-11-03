@@ -8,35 +8,25 @@ const page = () => {
         <div className={styles.title}>Giveaways</div>
         <div className={styles.subhead}>About</div>
         <div className={styles.desc}>
-          Bytevault Holdings is a division of Cyberdyne Systems that provides
-          bank loans as well as bulk resources trading services. We provide
-          alliance loans, nation loans, etc at low rate of interest.
-        </div>
-        <div className={styles.desc}>
-          We have high standards and criterias for giving out loans and we loan
-          out money only if you satisfy those. We provide the best and most
-          professional banking service in Orbis. Bytevault Holdings a member of
-          OSEC that helps us in loan recovery in case of a defaults.
+          Orbis Events frequently hosts giveaways for members on its server,
+          providing you with exciting opportunities to win valuable prizes. To
+          ensure you stay updated on these giveaways and don't miss out on any
+          of them, we recommend subscribing to giveaway alerts through the
+          self-role channel. This way, you'll receive notifications whenever a
+          new giveaway is announced, increasing your chances of participating
+          and winning fantastic rewards.
         </div>
         <div className={styles.subhead}>Rules</div>
         <div className={styles.desc}>
-          If you wish to read the rules, terms and condition of our bank,{" "}
-          <a
-            className={styles.links}
-            target="_blank"
-            href="https://docs.google.com/document/d/1vxYdk1y0hvM8nA-pDJs-aT4iCkTSMcx0PkDv7D9ZLjs/edit"
-          >
-            <b>click here</b>
-          </a>{" "}
-          to read our Charter.
+          You can click the button below to read the giveaway rules!
         </div>
         <div className={styles.bottom}>
           <a
-            href="https://discord.gg/anYFxMM2wT"
+            href="https://docs.google.com/document/d/1wrY0ndW_RRmv0nbC_2_bFkt6fEuokkR2kxd2pk4cEI0/edit?usp=sharing"
             target="_blank"
             className={styles.butt}
           >
-            <button>Visit Now</button>
+            <button>Read Rules</button>
           </a>
         </div>
       </div>

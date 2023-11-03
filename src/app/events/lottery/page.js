@@ -8,35 +8,29 @@ const page = () => {
         <div className={styles.title}>Lottery</div>
         <div className={styles.subhead}>About</div>
         <div className={styles.desc}>
-          Bytevault Holdings is a division of Cyberdyne Systems that provides
-          bank loans as well as bulk resources trading services. We provide
-          alliance loans, nation loans, etc at low rate of interest.
+          The Orbis Event Lottery is an exhilarating and thrilling opportunity
+          that invites individuals to test their luck in a fun and suspenseful
+          way. This event is designed to provide participants with the chance to
+          win an array of exciting prizes and rewards through a draw, creating
+          an engaging and memorable experience for all involved.
         </div>
         <div className={styles.desc}>
-          We have high standards and criterias for giving out loans and we loan
-          out money only if you satisfy those. We provide the best and most
-          professional banking service in Orbis. Bytevault Holdings a member of
-          OSEC that helps us in loan recovery in case of a defaults.
+          We want to make lotteries fun and exciting so we make sure to ensure
+          100% tamper-proof lottery system. If you want to know more about how
+          we make our lottery tamper-proof and unbiased, check out our rules and
+          how it works!
         </div>
         <div className={styles.subhead}>Rules</div>
         <div className={styles.desc}>
-          If you wish to read the rules, terms and condition of our bank,{" "}
-          <a
-            className={styles.links}
-            target="_blank"
-            href="https://docs.google.com/document/d/1vxYdk1y0hvM8nA-pDJs-aT4iCkTSMcx0PkDv7D9ZLjs/edit"
-          >
-            <b>click here</b>
-          </a>{" "}
-          to read our Charter.
+          Click on the button below to read all the lottery rules.
         </div>
         <div className={styles.bottom}>
           <a
-            href="https://discord.gg/anYFxMM2wT"
+            href="https://docs.google.com/document/d/1mmwP8tFlgzr0u9lDcJULrkf3mb7iOsgWFa3XN6kBWys/edit?usp=sharing"
             target="_blank"
             className={styles.butt}
           >
-            <button>Visit Now</button>
+            <button>Read Rules</button>
           </a>
         </div>
       </div>

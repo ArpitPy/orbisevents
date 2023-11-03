@@ -8,35 +8,24 @@ const page = () => {
         <div className={styles.title}>Betting</div>
         <div className={styles.subhead}>About</div>
         <div className={styles.desc}>
-          Bytevault Holdings is a division of Cyberdyne Systems that provides
-          bank loans as well as bulk resources trading services. We provide
-          alliance loans, nation loans, etc at low rate of interest.
-        </div>
-        <div className={styles.desc}>
-          We have high standards and criterias for giving out loans and we loan
-          out money only if you satisfy those. We provide the best and most
-          professional banking service in Orbis. Bytevault Holdings a member of
-          OSEC that helps us in loan recovery in case of a defaults.
+          Betting events typically revolve around sports like Cricket and
+          Football, where participants place their bets on their predicted match
+          winners. The victorious bettors receive the prize pool as their
+          reward. If you're someone who has confidence in your betting
+          abilities, don't hesitate to contribute to the wager. Who knows, you
+          might just end up with a substantial cash prize in your pocket!
         </div>
         <div className={styles.subhead}>Rules</div>
         <div className={styles.desc}>
-          If you wish to read the rules, terms and condition of our bank,{" "}
-          <a
-            className={styles.links}
-            target="_blank"
-            href="https://docs.google.com/document/d/1vxYdk1y0hvM8nA-pDJs-aT4iCkTSMcx0PkDv7D9ZLjs/edit"
-          >
-            <b>click here</b>
-          </a>{" "}
-          to read our Charter.
+          Click on the button below to read Betting rules.
         </div>
         <div className={styles.bottom}>
           <a
-            href="https://discord.gg/anYFxMM2wT"
+            href="https://docs.google.com/document/d/1IrAtU737PSN0lQwsckLn9GBO-VEG1yaty8TXG-yGpQo/edit?usp=sharing"
             target="_blank"
             className={styles.butt}
           >
-            <button>Visit Now</button>
+            <button>Read Rules</button>
           </a>
         </div>
       </div>

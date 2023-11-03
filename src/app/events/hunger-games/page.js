@@ -8,35 +8,27 @@ const page = () => {
         <div className={styles.title}>Hunger Games</div>
         <div className={styles.subhead}>About</div>
         <div className={styles.desc}>
-          Bytevault Holdings is a division of Cyberdyne Systems that provides
-          bank loans as well as bulk resources trading services. We provide
-          alliance loans, nation loans, etc at low rate of interest.
+          Orbsi Events Hunger Games is an event that is based on the movie
+          series Hunger Games, in which participants are left to survive in a
+          forest and the last surviving team is declared the winner.
         </div>
         <div className={styles.desc}>
-          We have high standards and criterias for giving out loans and we loan
-          out money only if you satisfy those. We provide the best and most
-          professional banking service in Orbis. Bytevault Holdings a member of
-          OSEC that helps us in loan recovery in case of a defaults.
+          Hunger Games one of the most fun games in the server in which the
+          event host simulates the hunger games and the last surviving team wins
+          the cash prize! We use a third part hunger games simulator to make
+          sure the event is unbiased.
         </div>
         <div className={styles.subhead}>Rules</div>
         <div className={styles.desc}>
-          If you wish to read the rules, terms and condition of our bank,{" "}
-          <a
-            className={styles.links}
-            target="_blank"
-            href="https://docs.google.com/document/d/1vxYdk1y0hvM8nA-pDJs-aT4iCkTSMcx0PkDv7D9ZLjs/edit"
-          >
-            <b>click here</b>
-          </a>{" "}
-          to read our Charter.
+          Click on the button below to read the Hunger Games Rules!
         </div>
         <div className={styles.bottom}>
           <a
-            href="https://discord.gg/anYFxMM2wT"
+            href="https://docs.google.com/document/d/1Var3TP-9CK9GynfPhyx0eQe6HhkII97zIk5GniOvE5I/edit?usp=sharing"
             target="_blank"
             className={styles.butt}
           >
-            <button>Visit Now</button>
+            <button>Read Rules</button>
           </a>
         </div>
       </div>
